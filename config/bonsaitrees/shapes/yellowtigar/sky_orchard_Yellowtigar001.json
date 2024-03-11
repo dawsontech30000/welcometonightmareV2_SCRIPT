@@ -1,0 +1,61 @@
+{
+  "type": "sky_orchard:Yellowtigar",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "sky_orchards:leaves_Yellowtigar",
+      "meta": 8
+    },
+    "b": {
+      "name": "sky_orchards:log_Yellowtigar",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " aaa ",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  aa ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " aaa ",
+      " aba ",
+      "aabaa",
+      "aabaa",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  a  ",
+      "aaaaa",
+      "aaaaa",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaaa",
+      "aaaa ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

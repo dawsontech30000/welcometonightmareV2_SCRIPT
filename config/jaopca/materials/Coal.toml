@@ -1,0 +1,23 @@
+
+[general]
+	#The alternative names of this material.
+	alternativeNames = []
+	#The byproducts of this material.
+	extras = []
+	#Is the storage block of this material small (2x2).
+	isSmallStorageBlock = false
+	#The module blacklist of this material.
+	moduleBlacklist = []
+	#Should items of this material have the enchanted glow.
+	hasEffect = false
+	#The model type of the material.
+	modelType = "crystal"
+	#The color of this material.
+	color = 1579032
+
+[skyresources]
+	#The output chance of Sky Resources' rock grinder recipe.
+	rockGrinderChance = 0.014999999664723873
+	#The default base to grind with Sky Resources' rock grinder to get dirty gems.
+	oreBase = "minecraft:stone"
+

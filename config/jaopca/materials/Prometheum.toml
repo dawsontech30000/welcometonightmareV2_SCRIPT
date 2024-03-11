@@ -1,0 +1,51 @@
+
+[general]
+	#The alternative names of this material.
+	alternativeNames = []
+	#The byproducts of this material.
+	extras = []
+	#Is the storage block of this material small (2x2).
+	isSmallStorageBlock = false
+	#The module blacklist of this material.
+	moduleBlacklist = []
+	#Should items of this material have the enchanted glow.
+	hasEffect = false
+	#The model type of the material.
+	modelType = "metallic"
+	#The color of this material.
+	color = 4742468
+
+[mysticalagriculture]
+	#The crop tier of this material.
+	tier = 3
+	#The amount of Mystical Agriculture essence required to craft materials.
+	inputCount = 8
+	#The amount of material obtained by crafting Mystical Agriculture essence.
+	outputCount = 4
+
+[exnihilocreatio]
+	#The default base to sieve in Ex Nihilo Creatio to get ore pieces.
+	oreBase = "#crushedDiorite"
+	#The output chance of the sieve recipes added using a flint mesh.
+	sieveFlintChance = 0.05000000074505806
+	#The output chance of the sieve recipes added using an iron mesh.
+	sieveIronChance = 0.07500000298023224
+	#The output chance of the sieve recipes added using a diamond mesh.
+	sieveDiamondChance = 0.15000000596046448
+
+[skyresources]
+	#The rarity of this material as used in Sky Resources.
+	rarity = 6
+	#The default base to use in Sky Resources' condenser to create ores.
+	oreBase = "minecraft:stone"
+	#The item to use in Sky Resources' cauldron cleaning to dust.
+	dustBase = "skyresources:techitemcomponent@0"
+
+[thermalexpansion_mysticalagriculture]
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Phyto-Gro.
+	basicChance = 100
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Rich Phyto-Gro.
+	richChance = 105
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Fluxed Phyto-Gro.
+	fluxChance = 110
+

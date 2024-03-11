@@ -1,0 +1,80 @@
+{
+  "savedSubBlockNames": {
+    "0": {
+      "0": "star_ore_minecraft_stone",
+      "1": "tiger_ore_minecraft_stone",
+      "2": "violet_block",
+      "3": "violet_ore_minecraft_stone",
+      "4": "pinktiger_block",
+      "5": "starwars_block",
+      "6": "whitetiger_ore_minecraft_stone",
+      "7": "pinktiger_ore_minecraft_stone",
+      "8": "crao_block",
+      "9": "bluetiger_block",
+      "10": "skymium_block",
+      "11": "xaelium_ore_minecraft_stone",
+      "12": "purpletiger_ore_minecraft_stone",
+      "13": "xaelium_block",
+      "14": "blacktiger_block",
+      "15": "xodias_ore_minecraft_stone"
+    },
+    "1": {
+      "0": "zephyrus_ore_minecraft_stone",
+      "1": "purpletiger_block",
+      "2": "lallixium_block",
+      "3": "kylian_ore_minecraft_stone",
+      "4": "orangetiger_block",
+      "5": "yellowtiger_ore_minecraft_stone",
+      "6": "yellowtiger_block",
+      "7": "raven_block",
+      "8": "orangetiger_ore_minecraft_stone",
+      "9": "tech_guy_ore_minecraft_stone",
+      "10": "tech_guy_block",
+      "11": "warlock_ore_minecraft_stone",
+      "12": "skitso_ore_minecraft_stone",
+      "13": "kylian_block",
+      "14": "starwars_ore_minecraft_stone",
+      "15": "dawsondude_block"
+    },
+    "2": {
+      "0": "first_time_gaming_block",
+      "1": "raven_ore_minecraft_stone",
+      "2": "crao_ore_minecraft_stone",
+      "3": "zephyrus_block",
+      "4": "lallixium_ore_minecraft_stone",
+      "5": "tiger_block",
+      "6": "skitso_block",
+      "7": "warlock_block",
+      "8": "lallix_block",
+      "9": "graytigar_block",
+      "10": "xodias_block",
+      "11": "ramm_block",
+      "12": "skymium_ore_minecraft_stone",
+      "13": "aph_wolf_block",
+      "14": "dillapis_block",
+      "15": "dustcrafter_ore_minecraft_stone"
+    },
+    "3": {
+      "0": "ramm_ore_minecraft_stone",
+      "1": "browntigar_ore_minecraft_stone",
+      "2": "star_block",
+      "3": "browntigar_block",
+      "4": "lallix_ore_minecraft_stone",
+      "5": "dustcrafter_block",
+      "6": "bluetiger_ore_minecraft_stone",
+      "7": "redtiger_block",
+      "8": "dillapis_ore_minecraft_stone",
+      "9": "aph_wolf_ore_minecraft_stone",
+      "10": "dawsondude_ore_minecraft_stone",
+      "11": "first_time_gaming_ore_minecraft_stone",
+      "12": "nightmare_ore_minecraft_stone",
+      "13": "nightmare_block",
+      "14": "redtiger_ore_minecraft_stone",
+      "15": "graytigar_ore_minecraft_stone"
+    },
+    "4": {
+      "0": "blacktiger_ore_minecraft_stone",
+      "1": "whitetiger_block"
+    }
+  }
+}

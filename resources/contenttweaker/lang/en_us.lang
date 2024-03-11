@@ -1,0 +1,49 @@
+item.contenttweaker.TVstatic.name=Crystalline TVstatic
+item.contenttweaker.NightmareToken.name=Nightmare Token
+item.contenttweaker.HeatCore.name=Heat Core
+item.contenttweaker.CondensationCore.name=Condensation Core
+tile.contenttweaker.TV_static_block.name=TVStaticBlock
+tile.contenttweaker.controller.name=MBController
+item.contenttweaker.FakeCoalChunk.name=Fake Coal Chunk
+item.contenttweaker.FauxIronIngot.name=Faux Iron Ingot
+item.contenttweaker.NotSoRedStone.name=Not So Red Stone
+item.contenttweaker.sipaL.name=sipaL
+item.contenttweaker.Pyrite.name=Pyrite
+item.contenttweaker.FoolsCopper.name=Fools Copper
+item.contenttweaker.PaintedOnLead.name=Painted On Lead
+item.contenttweaker.ScratchySilver.name=Scratchy Silver
+item.contenttweaker.RustyTinCan.name=Rusty Tin Can
+item.contenttweaker.FakeNickel.name=Fake Nickel
+item.contenttweaker.FakeOsmium.name=Fake Osmium
+item.contenttweaker.LabDiamond.name=Lab Diamond
+item.contenttweaker.CrayonEmerald.name=Crayon Emerald
+item.contenttweaker.fauxtin.name=faux tin
+
+
+entity.sappharko_chicken.name=Sappharko chicken
+
+entity.craomaster_chicken.name=Craomaster chicken
+
+entity.nightmare_chicken.name=Nightmare chicken
+
+entity.blacktigar_chicken.name=blacktigar chicken
+
+entity.bluetigar_chicken.name=bluetigar chicken
+
+entity.browntigar_chicken.name=browntigar chicken
+
+entity.graytigar_chicken.name=graytigar chicken
+
+entity.greentigar_chicken.name=greentigar chicken
+
+entity.lightpinktigar_chicken.name=lightpinktigar chicken
+
+entity.orangetigar_chicken.name=orangetigar chicken
+
+entity.purpletigar_chicken.name=purpletigar chicken
+
+entity.redtigar_chicken.name=redtigar chicken
+
+entity.whitetigar_chicken.name=whitetigar chicken
+
+entity.yellowtigar_chicken.name=yellowtigar chicken

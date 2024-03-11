@@ -1,0 +1,18 @@
+#remove all the alchemical recipes
+#added my own verisons of recipes
+#fixed courple quests
+
+
+
+#added more trees
+#start to map out more quests
+
+
+
+
+
+upadate 1.0.5
+add all new modualar machiney
+added more quests
+change alot more features 
+coverting all sky r in to mulitblocks 
